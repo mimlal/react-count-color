@@ -1,0 +1,79 @@
+{
+  "details": [
+    {
+      "id": 1,
+      " name": "Akshay",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "country": "India"
+    },
+    {
+      "id": 2,
+      " name": "Anegel",
+      "email": "testagel@gmail.com",
+      " phone": "1234567890",
+      "country": "Japan"
+    },
+    {
+      "id": 3,
+      " name": "Anjali",
+      "email": "test@gmail.com",
+      " phone": "1234567890",
+      "country": "Kathmandu"
+    },
+    {
+      "id": 4,
+      " name": "jack",
+      "email": "test@gmail.com",
+      " phone": "1234567890",
+      "country": "Australia"
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "phone": "3535454444",
+      "country": "usa",
+      "id": 5
+    },
+    {
+      "name": "mimla",
+      "email": "moktan@gmail.com",
+      "phone": "93579539",
+      "country": "nepal",
+      "id": 6
+    },
+    {
+      "name": "milalla",
+      "email": "moktans@gmail.com",
+      "phone": "349575878498",
+      "country": "Nepal",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "mimlal moktan",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "country": "India",
+      "id": 12
+    },
+    {
+      "name": "mimlal",
+      "email": "moktan@gmail.com",
+      "phone": "93579539",
+      "country": "nepal",
+      "id": 13
+    }
+  ]
+}

@@ -1,16 +1,21 @@
 import React from 'react'
-import Counter from './features/counter/Counter'
-import Coin from './features/coin/Coin'
-import Theme from './features/theme/Theme'
-import './App.css'
-function App(){
- 
+import Home from './redux/components/Home';
+import Forms from './redux/components/Forms';
+import UpdateDetail from './redux/components/updateDetail'
+import {BrowserRouter , Routes,Route} from 'react-router-dom'; 
+const App = () => {
   return (
-    
     <div className="App">
-      <Counter/>
-      <Coin/>
-       <Theme/>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/forms" element={<Forms />} />
+          <Route path="/edit/:id" element={<UpdateDetail />} />
+        </Routes>
+      </BrowserRouter>
+    
+  
+    
     </div>
   )
 }
